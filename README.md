@@ -8,6 +8,7 @@ https://people.eecs.berkeley.edu/~jrs/189/
 Med Level:
 
 10-805 Machine Learning with Large Datasets
+
 http://www.cs.cmu.edu/~wcohen/10-605/
 http://curtis.ml.cmu.edu/w/courses/index.php/Machine_Learning_with_Large_Datasets_10-405_in_Spring_2018
 
