@@ -47,3 +47,5 @@ https://pdos.csail.mit.edu/6.824/
 
 CMU 15-440/640 Spring 2019: Distributed Systems 
 http://www.andrew.cmu.edu/course/15-440/
+
+http://members.cbio.mines-paristech.fr/~jvert/svn/lsml/lsml18/
