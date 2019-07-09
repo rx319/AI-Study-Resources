@@ -28,6 +28,11 @@ https://ucbrise.github.io/cs294-ai-sys-sp19/
 CS 282A. Designing, Visualizing and Understanding Deep Neural Networks
 https://bcourses.berkeley.edu/courses/1478831
 
+CS246 Mining Massive Data Sets
+http://web.stanford.edu/class/cs246/
+http://alex.smola.org/teaching/berkeley2012/systems.html
+
+
 Advanced Level:
 10-716 Advanced Machine Learning: Theory and Methods
 http://www.cs.cmu.edu/~pradeepr/716/
