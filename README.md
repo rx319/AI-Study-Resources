@@ -49,3 +49,7 @@ CMU 15-440/640 Spring 2019: Distributed Systems
 http://www.andrew.cmu.edu/course/15-440/
 
 http://members.cbio.mines-paristech.fr/~jvert/svn/lsml/lsml18/
+
+
+## Blogs
+https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e
