@@ -53,3 +53,4 @@ http://members.cbio.mines-paristech.fr/~jvert/svn/lsml/lsml18/
 
 ## Blogs
 https://hackernoon.com/my-self-created-ai-masters-degree-ddc7aae92d0e
+https://medium.com/@tomaszdudek/but-what-is-this-machine-learning-engineer-actually-doing-18464d5c699
